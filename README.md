@@ -1,0 +1,1 @@
+This repository contains code and resources for predicting salaries using machine learning techniques. The goal of this project is to build a model that can accurately predict the salary of an individual based on various features such as education level, years of experience, job title, and more.
